@@ -1,0 +1,6 @@
+Autobus:;Numer autobusu:;Liczba miejsc w autobusie:;Cena biletu w autobusie:;Miejsce docelowe autobusu:
+Autobus 0:;787;100;54;aachen
+Autobus 1:;12;45;2;krakow
+Autobus 2:;56;44;32;lwow
+Autobus 3:;60;76;25;poznan
+Autobus 4:;70;505;78;warszawa
